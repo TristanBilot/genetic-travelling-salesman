@@ -7,6 +7,6 @@ The crossover step consists in choosing the best genes of the precedent generati
 similar aspects, and so on. The mutation rate allows the algorithm to avoid the stagnation on a bad solution by adding random modifications on each gene.
 
 <p align="center">
-  <img width=40% src="ReadmeContent/screen1.png">
-  <img width=40% src="ReadmeContent/screen2.png">
+  <img width=43% src="ReadmeContent/screen1.png">
+  <img width=43% src="ReadmeContent/screen2.png">
 </p>
