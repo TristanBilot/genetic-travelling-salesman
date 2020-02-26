@@ -1,4 +1,4 @@
-let nbCities = 11;
+let nbCities = 17;
 let mutationRate = 0.01;
 let maxPop = nbCities * nbCities;
 let cities = [];
