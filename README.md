@@ -6,5 +6,7 @@ Each generation is thus a number of genes which will learn by themselves to fit 
 The crossover step consists in choosing the best genes of the precedent generation and to cross them to get a new gene with 
 similar aspects, and so on. The mutation rate allows the algorithm to avoid the stagnation on a bad solution by adding random modifications on each gene.
 
-<img src="ReadmeContent/screen1">
-<img src="ReadmeContent/screen2">
+<center>
+<img width="40%" src="ReadmeContent/screen1.png">
+<img width="40%" src="ReadmeContent/screen2.png">
+  </center>
