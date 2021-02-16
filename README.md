@@ -23,4 +23,4 @@ population.evaluate();
 * the natural selection part is where the algorithm selects the genes with the best results considering the last generation.
 * then, a new generation is built from these champion genes.
 * fitness is just here to normalize the results the gene values.
-$ the evaluation method checks wether the final score is enough good to stop the algorithm. Otherwise, it selects the best genes for the next generation.
+* the evaluation method checks wether the final score is enough good to stop the algorithm. Otherwise, it selects the best genes for the next generation.
