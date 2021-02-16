@@ -10,3 +10,17 @@ similar aspects, and so on. The mutation rate allows the algorithm to avoid the 
   <img width=43% src="ReadmeContent/screen1.png">
   <img width=43% src="ReadmeContent/screen2.png">
 </p>
+
+## Usage
+The four main methods of the algorithms are:
+
+```Javascript
+population.naturalSelection();
+population.newGeneration();
+population.fitness();
+population.evaluate();
+```
+* the natural selection part is where the algorithm selects the genes with the best results considering the last generation.
+* then, a new generation is built from these champion genes.
+* fitness is just here to normalize the results the gene values.
+$ the evaluation method checks wether the final score is enough good to stop the algorithm. Otherwise, it selects the best genes for the next generation.
